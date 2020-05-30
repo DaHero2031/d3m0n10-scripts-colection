@@ -1,7 +1,7 @@
 # scripts
 una coleccion de utilidades de shell script para linux
 
-a collection of shell script utilities for linux
+a collection of bash script utilities for linux
 
 input mapper:
 -------------

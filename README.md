@@ -1,5 +1,5 @@
 # scripts
-una coleccion de utilidades de shell script para linux
+una coleccion de utilidades de bash script para linux
 
 a collection of bash script utilities for linux
 

@@ -24,3 +24,8 @@ QuickGamingSetup:
   instala steam, lutris y actualiza los repositorios, tambien tiene un script para realizar la configuracion requerida por Esync
 
    installs steam, lutris and upgrades the repositories, also has a script to make the configuration required by Esync
+   
+LICENCIA:
+---------
+HACE LO QUE QUIERAS CON ESTO.
+DO WHAT YOU WANT WITH THIS.

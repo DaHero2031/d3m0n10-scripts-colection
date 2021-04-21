@@ -1,7 +1,13 @@
 # scripts
-una coleccion de utilidades de bash script para linux
+una coleccion de scripts para linux
 
-a collection of bash script utilities for linux
+a collection of scripts for linux
+
+Empacar:
+-------------
+  Empacar.sh genera una (facilmente modificable) lista de directorios para empaquetar y vierte los contenidos de la lista en Paquete.tar.xz
+
+  Packup.sh generates a (easily modifiable) list of directories to pack and dumps the contents of the list in Pack.tar.xz
 
 input mapper:
 -------------
@@ -23,7 +29,7 @@ QuickGamingSetup:
 ----------------
   instala steam, lutris y actualiza los repositorios, tambien tiene un script para realizar la configuracion requerida por Esync
 
-   installs steam, lutris and upgrades the repositories, also has a script to make the configuration required by Esync
+  installs steam, lutris and upgrades the repositories, also has a script to make the configuration required by Esync
    
 LICENCIA:
 ---------
